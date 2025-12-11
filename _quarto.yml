@@ -11,6 +11,8 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Protocols
+        href: protocols.qmd
       - text: Useful links
         href: links.qmd
       - text: About
