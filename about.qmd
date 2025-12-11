@@ -1,0 +1,16 @@
+---
+title: "About this site"
+---
+
+This website is dedicated to providing the management protocols (to be) followed in Ain Shams University Women's Hospital. They are intended to serve as a quick reference for healthcare professionals working in our institute.
+
+Please note that these protocols may not be exhaustive and should not replace clinical judgment. Always consider the individual patient's circumstances and consult relevant specialists when necessary.
+
+## How protocols were developed
+
+Each protocol was developed through a comprehensive review of current international guidelines, including those from NICE, RCOG, ACOG, SOGC, FIGO, and WHO. Relevant recommendations were then adapted to align with the our real-world capabilities, resources, and patient population.
+
+---
+
+This is a Quarto website.  
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

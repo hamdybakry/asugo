@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
+
+website:
+  title: "ASUGO"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Useful links
+        href: links.qmd
+      - text: About
+        href: about.qmd
+  page-footer: 
+    left:
+      Made using [Quarto](https://quarto.org/docs/websites)
+    right: 
+      - icon: github
+        href: https://github.com/hamdybakry/asugo
+      - Curated by HB; © 2025, Ain Shams University
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+    
