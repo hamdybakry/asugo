@@ -60,7 +60,7 @@
     "href": "about.html",
     "title": "About this site",
     "section": "",
-    "text": "This website is dedicated to providing the management protocols (to be) followed in Ain Shams University Women’s Hospital. They are intended to serve as a quick reference for healthcare professionals working in our institute.\nPlease note that these protocols may not be exhaustive and should not replace clinical judgment. Always consider the individual patient’s circumstances and consult relevant specialists when necessary."
+    "text": "This website provides management protocols for clinical practice at Ain Shams University Women’s Hospital. These protocols serve as evidence-based reference guides for healthcare professionals working within our institution."
   },
   {
     "objectID": "about.html#how-protocols-were-developed",
@@ -82,5 +82,26 @@
     "title": "ASUGO",
     "section": "",
     "text": "PPROM"
+  },
+  {
+    "objectID": "about.html#purpose",
+    "href": "about.html#purpose",
+    "title": "About this site",
+    "section": "",
+    "text": "This website provides management protocols for clinical practice at Ain Shams University Women’s Hospital. These protocols serve as evidence-based reference guides for healthcare professionals working within our institution."
+  },
+  {
+    "objectID": "about.html#development-methodology",
+    "href": "about.html#development-methodology",
+    "title": "About this site",
+    "section": "Development methodology",
+    "text": "Development methodology\nEach protocol was developed through a comprehensive review of current international guidelines from NICE, RCOG, ACOG, SOGC, FIGO, and WHO. Evidence-based recommendations have been adapted to reflect our institution’s capabilities, resources, and patient population characteristics."
+  },
+  {
+    "objectID": "about.html#important-disclaimer",
+    "href": "about.html#important-disclaimer",
+    "title": "About this site",
+    "section": "Important disclaimer",
+    "text": "Important disclaimer\nThese protocols are intended to support clinical decision-making but are not exhaustive and should not replace individual clinical judgment. Healthcare professionals must consider each patient’s unique circumstances and consult relevant specialists when necessary.\n\nThis is a Quarto website. To learn more, visit https://quarto.org/docs/websites."
   }
 ]
