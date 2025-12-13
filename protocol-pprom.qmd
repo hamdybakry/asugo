@@ -1,6 +1,7 @@
 ---
-title: Preterm prelabor rupture of membranes (PPROM)
-date: 2025-12-11
+title: PPROM
+subtitle: Preterm prelabor rupture of membranes
+date: 2025-12-13
 ---
 
 ## Diagnosis

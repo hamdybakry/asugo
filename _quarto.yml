@@ -1,15 +1,15 @@
-project:
+project: 
   type: website
   output-dir: docs
 
-execute:
+execute: 
   freeze: auto
 
-website:
+website: 
   title: "ASU-GO"
   favicon: favicon.png
-  navbar:
-    left:
+  navbar: 
+    left: 
       - text: Home
         href: index.qmd
       - text: Protocols
@@ -18,13 +18,20 @@ website:
         href: links.qmd
       - text: About
         href: about.qmd
+
+  sidebar:
+    - title: "Protocols"
+      style: floating
+      search: true
+      contents: protocol-*.qmd
+
   page-footer: 
-    left:
-      Made using [Quarto](https://quarto.org/docs/websites)
+    left: 
+      Made using Quarto
     right: 
       - icon: github
         href: https://github.com/hamdybakry/asugo
-      - Curated by HB; © 2025, Ain Shams University
+      - Curated by HB; © Ain Shams University 2025
 
 format:
   html:
