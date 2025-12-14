@@ -173,5 +173,12 @@
     "crumbs": [
       "PPROM"
     ]
+  },
+  {
+    "objectID": "about.html#disclaimer",
+    "href": "about.html#disclaimer",
+    "title": "About this site",
+    "section": "Disclaimer",
+    "text": "Disclaimer\nThese protocols are intended to support clinical decision-making but are not exhaustive and should not replace individual clinical judgment. Healthcare professionals must consider each patient’s unique circumstances and consult relevant specialists when necessary.\n\nThis is a Quarto website. To learn more, visit https://quarto.org/docs/websites."
   }
 ]
