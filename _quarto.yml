@@ -21,7 +21,7 @@ website:
 
   sidebar:
     - title: "Protocols"
-      style: floating
+      style: docked
       search: true
       contents: protocol-*.qmd
 

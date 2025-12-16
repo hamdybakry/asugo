@@ -1,7 +1,7 @@
 ---
 title: PPROM
 subtitle: Preterm prelabor rupture of membranes
-date: 2025-12-13
+date: 2025-12-15
 ---
 
 ## Diagnosis
@@ -29,12 +29,15 @@ date: 2025-12-13
     - Penicillins (for 7 days):
         - Ampicillin-sulbactam 2 g IV q6h × 2 days, then
         - Amoxicillin 250 mg PO q8h × 5 days, plus
-- Antenatal corticosteroids if <34/<36 weeks (dexamethasone, after screening for GDM):
-    - 6 mg IM q12h × 4 doses, or
-    - 12 mg IM q24h × 2 doses
+- Antenatal corticosteroids (dexamethasone) if <34/<36 weeks after screening for GDM:
+    - Dose:
+        - 6 mg IM q12h × 4 doses, or
+        - 12 mg IM q24h × 2 doses
+    - Repeat courses not routinely offeerred
 - Magnesium sulfate for neuroprotection if <30/<34 weeks.
 
 ### Birth
+
 - Timing:
     - <34 weeks: expectant management until 34 weeks, unless indicated earlier
     - 34-<36 weeks: consider delivery after corticosteroids (individualized)
@@ -60,7 +63,7 @@ date: 2025-12-13
 
 ### Preterm labor
 
-- Tocolysis: 
+- Tocolysis is not recommended as it is associated with increased risk of chorioamnionitis.
 
 ### Chorioamnionitis
 
@@ -72,7 +75,8 @@ date: 2025-12-13
     - Foul smelling vaginal discharge
     - Elevated WBC >15,000/mm^3^ (less reliable if corticosteroids given)
 - Management:
-    - 
+    - Antibuotics:
+    - Expedite delivery
 
 ## Postpartum/preconceptional advice
 
@@ -81,4 +85,5 @@ date: 2025-12-13
 ## References
 
 - RCOG 2021
+- NICE 
 - ACOG 
