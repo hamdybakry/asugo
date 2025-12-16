@@ -16,5 +16,11 @@
   },
   "protocol-pprom.qmd": {
     "protocol-pprom.html": "5cedd49c"
+  },
+  "protocol-htn.qmd": {
+    "protocol-htn.html": "b59829ea"
+  },
+  "protocol-rfm.qmd": {
+    "protocol-rfm.html": "328cf6d0"
   }
 }

@@ -139,7 +139,7 @@
     "href": "protocol-pprom.html#management",
     "title": "PPROM",
     "section": "Management",
-    "text": "Management\n\nAdmission. Outpatient management only by consultant decision (individualized).\nAntibiotics:\n\nAzithromycin 1 g PO single dose, plus\nPenicillins (for 7 days):\n\nAmpicillin-sulbactam 2 g IV q6h × 2 days, then\nAmoxicillin 250 mg PO q8h × 5 days, plus\n\n\nAntenatal corticosteroids if &lt;34/&lt;36 weeks (dexamethasone, after screening for GDM):\n\n6 mg IM q12h × 4 doses, or\n12 mg IM q24h × 2 doses\n\nMagnesium sulfate for neuroprotection if &lt;30/&lt;34 weeks.\n\n\nBirth\n\nTiming:\n\n&lt;34 weeks: expectant management until 34 weeks, unless indicated earlier\n34-&lt;36 weeks: consider delivery after corticosteroids (individualized)\n36-37 weeks: deliver\n\nIndications for earlier delivery:\n\nChorioamnionitis\nFetal distress\nAssociated medical indications (e.g., severe preeclampsia)\n\nMode: VD unless CS is otherwise indicated.\nNeonatologists should be informed when delivery is anticipated.",
+    "text": "Management\n\nAdmission. Outpatient management only by consultant decision (individualized).\nAntibiotics:\n\nAzithromycin 1 g PO single dose, plus\nPenicillins (for 7 days):\n\nAmpicillin-sulbactam 2 g IV q6h × 2 days, then\nAmoxicillin 250 mg PO q8h × 5 days, plus\n\n\nAntenatal corticosteroids (dexamethasone) if &lt;34/&lt;36 weeks after screening for GDM:\n\nDose:\n\n6 mg IM q12h × 4 doses, or\n12 mg IM q24h × 2 doses\n\nRepeat courses not routinely offeerred\n\nMagnesium sulfate for neuroprotection if &lt;30/&lt;34 weeks.\n\n\nBirth\n\nTiming:\n\n&lt;34 weeks: expectant management until 34 weeks, unless indicated earlier\n34-&lt;36 weeks: consider delivery after corticosteroids (individualized)\n36-37 weeks: deliver\n\nIndications for earlier delivery:\n\nChorioamnionitis\nFetal distress\nAssociated medical indications (e.g., severe preeclampsia)\n\nMode: VD unless CS is otherwise indicated.\nNeonatologists should be informed when delivery is anticipated.",
     "crumbs": [
       "PPROM"
     ]
@@ -149,7 +149,7 @@
     "href": "protocol-pprom.html#special-considerations",
     "title": "PPROM",
     "section": "Special considerations",
-    "text": "Special considerations\n\nPeriviable ROM\n\n&lt;20 weeks → counsel regarding poor prognosis; risk of pulmonary hypoplasia, skeletal deformities, and neonatal death, in addition to risk of maternal morbidity from chorioamnionitis and sepsis.\n20-&lt;24 weeks → expectant management or termination of pregnancy after counseling.\n24 weeks → expectant management.\n\n\n\nWomen with cerclage\n\n\n\n\n\nPreterm labor\n\nTocolysis:\n\n\n\nChorioamnionitis\n\nA combination of clinical assessment, maternal blood tests (CRP and WBC) and FHR should be used to diagnose chorioamnionitis in women with PPROM; these parameters should not be used in isolation.\nDiagnosis: Maternal fever &gt;38°C plus 2 of the following:\n\nMaternal tachycardia &gt;100 bpm\nFetal tachycardia &gt;160 bpm\nUterine tenderness\nFoul smelling vaginal discharge\nElevated WBC &gt;15,000/mm3 (less reliable if corticosteroids given)\n\nManagement:",
+    "text": "Special considerations\n\nPeriviable ROM\n\n&lt;20 weeks → counsel regarding poor prognosis; risk of pulmonary hypoplasia, skeletal deformities, and neonatal death, in addition to risk of maternal morbidity from chorioamnionitis and sepsis.\n20-&lt;24 weeks → expectant management or termination of pregnancy after counseling.\n24 weeks → expectant management.\n\n\n\nWomen with cerclage\n\n\n\n\n\nPreterm labor\n\nTocolysis is not recommended as it is associated with increased risk of chorioamnionitis.\n\n\n\nChorioamnionitis\n\nA combination of clinical assessment, maternal blood tests (CRP and WBC) and FHR should be used to diagnose chorioamnionitis in women with PPROM; these parameters should not be used in isolation.\nDiagnosis: Maternal fever &gt;38°C plus 2 of the following:\n\nMaternal tachycardia &gt;100 bpm\nFetal tachycardia &gt;160 bpm\nUterine tenderness\nFoul smelling vaginal discharge\nElevated WBC &gt;15,000/mm3 (less reliable if corticosteroids given)\n\nManagement:\n\nAntibuotics:\nExpedite delivery",
     "crumbs": [
       "PPROM"
     ]
@@ -169,7 +169,7 @@
     "href": "protocol-pprom.html#references",
     "title": "PPROM",
     "section": "References",
-    "text": "References\n\nRCOG 2021\nACOG",
+    "text": "References\n\nRCOG 2021\nNICE\nACOG",
     "crumbs": [
       "PPROM"
     ]
@@ -180,5 +180,25 @@
     "title": "About this site",
     "section": "Disclaimer",
     "text": "Disclaimer\nThese protocols are intended to support clinical decision-making but are not exhaustive and should not replace individual clinical judgment. Healthcare professionals must consider each patient’s unique circumstances and consult relevant specialists when necessary.\n\nThis is a Quarto website. To learn more, visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "protocol-rfm.html",
+    "href": "protocol-rfm.html",
+    "title": "RFM",
+    "section": "",
+    "text": "flowchart TD\n    Start[Woman presents with RFM] --&gt; History[History & Risk Assessment]\n    History --&gt; Gestation{Gestation?}\n\n    %% &lt; 24 Weeks\n    Gestation --&gt;|&lt; 24+0 weeks| Less24[Confirm Fetal Heart]\n    Less24 --&gt;|FH Heard| Reassure1[Reassure & Safety Net]\n    Less24 --&gt;|FH Not Heard| UrgentScan[Urgent Ultrasound]\n\n    %% 24 - 28 Weeks\n    Gestation --&gt;|24+0 - 28+0 weeks| Btn2428[Confirm Fetal Heart]\n    Btn2428 --&gt;|FH Not Heard| UrgentScan\n    Btn2428 --&gt;|FH Heard| Risks24{Risk Factors for FGR/SB?}\n    Risks24 --&gt;|No| Reassure1\n    Risks24 --&gt;|Yes| Scan[Ultrasound: Growth, Liquor, Doppler]\n\n    %% &gt; 28 Weeks\n    Gestation --&gt;|&gt; 28+0 weeks| More28[CTG Monitoring &gt;= 20 min]\n    More28 --&gt;|Abnormal/Pathological| SeniorRev[Senior Obstetric Review]\n    More28 --&gt;|Normal| Risks28{Risk factors / Clinical concerns?}\n    \n    Risks28 --&gt;|No| Measure[Abdominal Palpation/SFH]\n    Measure --&gt;|Normal Growth| Recurrent{Recurrent Episode?}\n    Measure --&gt;|Abnormal Growth| Scan\n    \n    Risks28 --&gt;|Yes| Scan\n\n    %% Scan Outcomes\n    Scan --&gt;|Normal| Recurrent\n    Scan --&gt;|Abnormal| SeniorRev\n\n    %% Recurrent Loop\n    Recurrent --&gt;|No| Discharge[Discharge with detailed advice]\n    Recurrent --&gt;|Yes| SeniorPlan[Senior Review & Individual Care Plan]\n\n    SeniorRev --&gt; Management[Management: Delivery or Admission]",
+    "crumbs": [
+      "RFM"
+    ]
+  },
+  {
+    "objectID": "protocol-htn.html",
+    "href": "protocol-htn.html",
+    "title": "Hypertensive disorders in pregnancy",
+    "section": "",
+    "text": "Gestational hypertension\n\n\nPreeclampsia\n\n\nChronic hypertension\n\n\nPostpartum management",
+    "crumbs": [
+      "Hypertensive disorders in pregnancy"
+    ]
   }
 ]

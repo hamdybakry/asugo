@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-12-15">
 
-<title>protocols – ASU-GO</title>
+<title>RFM – ASU-GO</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -69,12 +70,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-sidebar docked nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -94,11 +98,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./protocols.html" aria-current="page"> 
+    <a class="nav-link" href="./protocols.html"> 
 <span class="menu-text">Protocols</span></a>
   </li>  
   <li class="nav-item">
@@ -115,21 +119,137 @@ ul.task-list li input[type="checkbox"] {
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./protocol-rfm.html">RFM</a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
+      <a href="./index.html" class="sidebar-logo-link">
+      </a>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./protocol-htn.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">HYpertensive disorders in pregnancy</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./protocol-pprom.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">PPROM</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./protocol-rfm.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">RFM</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
         
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">RFM</h1>
+<p class="subtitle lead">Reduced fetal movement</p>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<p><a href="./protocol-pprom.html">PPROM</a></p>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 15, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">flowchart TD
+    Start[Woman presents with RFM] --&gt; History[History &amp; Risk Assessment]
+    History --&gt; Gestation{Gestation?}
+
+    %% &lt; 24 Weeks
+    Gestation --&gt;|&lt; 24+0 weeks| Less24[Confirm Fetal Heart]
+    Less24 --&gt;|FH Heard| Reassure1[Reassure &amp; Safety Net]
+    Less24 --&gt;|FH Not Heard| UrgentScan[Urgent Ultrasound]
+
+    %% 24 - 28 Weeks
+    Gestation --&gt;|24+0 - 28+0 weeks| Btn2428[Confirm Fetal Heart]
+    Btn2428 --&gt;|FH Not Heard| UrgentScan
+    Btn2428 --&gt;|FH Heard| Risks24{Risk Factors for FGR/SB?}
+    Risks24 --&gt;|No| Reassure1
+    Risks24 --&gt;|Yes| Scan[Ultrasound: Growth, Liquor, Doppler]
+
+    %% &gt; 28 Weeks
+    Gestation --&gt;|&gt; 28+0 weeks| More28[CTG Monitoring &gt;= 20 min]
+    More28 --&gt;|Abnormal/Pathological| SeniorRev[Senior Obstetric Review]
+    More28 --&gt;|Normal| Risks28{Risk factors / Clinical concerns?}
+    
+    Risks28 --&gt;|No| Measure[Abdominal Palpation/SFH]
+    Measure --&gt;|Normal Growth| Recurrent{Recurrent Episode?}
+    Measure --&gt;|Abnormal Growth| Scan
+    
+    Risks28 --&gt;|Yes| Scan
+
+    %% Scan Outcomes
+    Scan --&gt;|Normal| Recurrent
+    Scan --&gt;|Abnormal| SeniorRev
+
+    %% Recurrent Loop
+    Recurrent --&gt;|No| Discharge[Discharge with detailed advice]
+    Recurrent --&gt;|Yes| SeniorPlan[Senior Review &amp; Individual Care Plan]
+
+    SeniorRev --&gt; Management[Management: Delivery or Admission]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 
 
 

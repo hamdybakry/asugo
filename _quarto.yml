@@ -20,7 +20,7 @@ website:
         href: about.qmd
 
   sidebar:
-    - title: "Protocols"
+    - title: "xProtocols"
       style: docked
       search: true
       contents: protocol-*.qmd
