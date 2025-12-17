@@ -70,9 +70,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
-<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
-<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 <link rel="stylesheet" href="styles.css">
@@ -151,13 +148,13 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./protocol-htn.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">HYpertensive disorders in pregnancy</span></a>
+ <span class="menu-text">Hypertensive disorders in pregnancy</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./protocol-pprom.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">PPROM</span></a>
+ <span class="menu-text">Preterm prelabor rupture of membranes</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -203,53 +200,6 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="cell" data-layout-align="default">
-<div class="cell-output-display">
-<div>
-<p></p><figure class="figure"><p></p>
-<div>
-<pre class="mermaid mermaid-js">flowchart TD
-    Start[Woman presents with RFM] --&gt; History[History &amp; Risk Assessment]
-    History --&gt; Gestation{Gestation?}
-
-    %% &lt; 24 Weeks
-    Gestation --&gt;|&lt; 24+0 weeks| Less24[Confirm Fetal Heart]
-    Less24 --&gt;|FH Heard| Reassure1[Reassure &amp; Safety Net]
-    Less24 --&gt;|FH Not Heard| UrgentScan[Urgent Ultrasound]
-
-    %% 24 - 28 Weeks
-    Gestation --&gt;|24+0 - 28+0 weeks| Btn2428[Confirm Fetal Heart]
-    Btn2428 --&gt;|FH Not Heard| UrgentScan
-    Btn2428 --&gt;|FH Heard| Risks24{Risk Factors for FGR/SB?}
-    Risks24 --&gt;|No| Reassure1
-    Risks24 --&gt;|Yes| Scan[Ultrasound: Growth, Liquor, Doppler]
-
-    %% &gt; 28 Weeks
-    Gestation --&gt;|&gt; 28+0 weeks| More28[CTG Monitoring &gt;= 20 min]
-    More28 --&gt;|Abnormal/Pathological| SeniorRev[Senior Obstetric Review]
-    More28 --&gt;|Normal| Risks28{Risk factors / Clinical concerns?}
-    
-    Risks28 --&gt;|No| Measure[Abdominal Palpation/SFH]
-    Measure --&gt;|Normal Growth| Recurrent{Recurrent Episode?}
-    Measure --&gt;|Abnormal Growth| Scan
-    
-    Risks28 --&gt;|Yes| Scan
-
-    %% Scan Outcomes
-    Scan --&gt;|Normal| Recurrent
-    Scan --&gt;|Abnormal| SeniorRev
-
-    %% Recurrent Loop
-    Recurrent --&gt;|No| Discharge[Discharge with detailed advice]
-    Recurrent --&gt;|Yes| SeniorPlan[Senior Review &amp; Individual Care Plan]
-
-    SeniorRev --&gt; Management[Management: Delivery or Admission]
-</pre>
-</div>
-<p></p></figure><p></p>
-</div>
-</div>
-</div>
 
 
 

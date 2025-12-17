@@ -10,20 +10,18 @@ website:
   favicon: favicon.png
   navbar: 
     left: 
-      - text: Home
-        href: index.qmd
       - text: Protocols
-        href: protocols.qmd
+        href: protocols.md
       - text: Useful links
-        href: links.qmd
+        href: links.md
       - text: About
-        href: about.qmd
+        href: about.md
 
   sidebar:
     - title: "xProtocols"
       style: docked
       search: true
-      contents: protocol-*.qmd
+      contents: protocol-*.md
 
   page-footer: 
     left: 
