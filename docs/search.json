@@ -1,115 +1,17 @@
 [
   {
-    "objectID": "pprom.html",
-    "href": "pprom.html",
-    "title": "Preterm prelabor rupture of membranes (PPROM)",
-    "section": "",
-    "text": "History of watery vaginal discharge.\nSterile speculum examination demonstrating liquor.\nThe role of ultrasound assessment of amniotic fluid volume is unclear.\nDigital vaginal exam should not be done unless in labor."
-  },
-  {
-    "objectID": "pprom.html#diagnosis",
-    "href": "pprom.html#diagnosis",
-    "title": "Preterm prelabor rupture of membranes (PPROM)",
-    "section": "",
-    "text": "History of watery vaginal discharge.\nSterile speculum examination demonstrating liquor.\nThe role of ultrasound assessment of amniotic fluid volume is unclear.\nDigital vaginal exam should not be done unless in labor."
-  },
-  {
-    "objectID": "pprom.html#investigations",
-    "href": "pprom.html#investigations",
-    "title": "Preterm prelabor rupture of membranes (PPROM)",
-    "section": "Investigations",
-    "text": "Investigations\n\nMaternal:\n\nCBC, CRP\nUrine analysis and culture\n\nFetal:\n\nCTG (if &gt;28 weeks)\nUltrasound for growth and amniotic fluid volume"
-  },
-  {
-    "objectID": "pprom.html#management",
-    "href": "pprom.html#management",
-    "title": "Preterm prelabor rupture of membranes (PPROM)",
-    "section": "Management",
-    "text": "Management\n\nAdmission. Outpatient management only by consultant decision (individualized).\nAntibiotics:\n\nAzithromycin 1 g PO single dose, plus\nPenicillins (for 7 days):\n\nAmpicillin-sulbactam 2 g IV q6h × 2 days, then\nAmoxicillin 250 mg PO q8h × 5 days, plus\n\n\nAntenatal corticosteroids if &lt;34/&lt;36 weeks (dexamethasone, after screening for GDM):\n\n6 mg IM q12h × 4 doses, or\n12 mg IM q24h × 2 doses\n\nMagnesium sulfate for neuroprotection if &lt;30/&lt;34 weeks.\n\n\nBirth\n\nTiming:\n\n&lt;34 weeks: expectant management until 34 weeks, unless indicated earlier\n34-&lt;36 weeks: consider delivery after corticosteroids (individualized)\n36-37 weeks: deliver\n\nIndications for earlier delivery:\n\nChorioamnionitis\nFetal distress\nAssociated medical indications (e.g., severe preeclampsia)\n\nMode: VD unless CS is otherwise indicated.\nNeonatologists should be informed when delivery is anticipated."
-  },
-  {
-    "objectID": "pprom.html#special-considerations",
-    "href": "pprom.html#special-considerations",
-    "title": "Preterm prelabor rupture of membranes (PPROM)",
-    "section": "Special considerations",
-    "text": "Special considerations\n\nPeriviable ROM\n\n&lt;20 weeks → counsel regarding poor prognosis; risk of pulmonary hypoplasia, skeletal deformities, and neonatal death, in addition to risk of maternal morbidity from chorioamnionitis and sepsis.\n20-&lt;24 weeks → expectant management or termination of pregnancy after counseling.\n24 weeks → expectant management.\n\n\n\nWomen with cerclage\n\n\n\n\n\nPreterm labor\n\nTocolysis:\n\n\n\nChorioamnionitis\n\nA combination of clinical assessment, maternal blood tests (CRP and WBC) and FHR should be used to diagnose chorioamnionitis in women with PPROM; these parameters should not be used in isolation.\nDiagnosis: Maternal fever &gt;38°C plus 2 of the following:\n\nMaternal tachycardia &gt;100 bpm\nFetal tachycardia &gt;160 bpm\nUterine tenderness\nFoul smelling vaginal discharge\nElevated WBC &gt;15,000/mm3 (less reliable if corticosteroids given)\n\nManagement:"
-  },
-  {
-    "objectID": "pprom.html#postpartumpreconceptional-advice",
-    "href": "pprom.html#postpartumpreconceptional-advice",
-    "title": "Preterm prelabor rupture of membranes (PPROM)",
-    "section": "Postpartum/preconceptional advice",
-    "text": "Postpartum/preconceptional advice\n\nRisk in subsequent pregnancies is increased."
-  },
-  {
-    "objectID": "pprom.html#references",
-    "href": "pprom.html#references",
-    "title": "Preterm prelabor rupture of membranes (PPROM)",
-    "section": "References",
-    "text": "References\n\nRCOG 2021\nACOG"
-  },
-  {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Useful links",
-    "section": "",
-    "text": "Perinatology.com: Centiles calc\nPerinatology.com: GA/EFW from biometry\nWHO: Fetal growth calculator\nPerinatology.com: UAD\nFetal Medicine Foundation: Fetal growth asst\nFetal Medicine Foundation: SGA mgt\nFetal Medicine Foundation: Fetal Doppler"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About this site",
-    "section": "",
-    "text": "This website provides management protocols for clinical practice at Ain Shams University Women’s Hospital. These protocols serve as evidence-based reference guides for healthcare professionals working within our institution."
-  },
-  {
-    "objectID": "about.html#how-protocols-were-developed",
-    "href": "about.html#how-protocols-were-developed",
-    "title": "About this site",
-    "section": "How protocols were developed",
-    "text": "How protocols were developed\nEach protocol was developed through a comprehensive review of current international guidelines, including those from NICE, RCOG, ACOG, SOGC, FIGO, and WHO. Relevant recommendations were then adapted to align with the our real-world capabilities, resources, and patient population.\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "ASU-GO",
-    "section": "",
-    "text": "Ain Shams University Gynecology & Obstetrics Protocols"
-  },
-  {
     "objectID": "protocols.html",
     "href": "protocols.html",
     "title": "ASU-GO",
     "section": "",
-    "text": "PPROM"
-  },
-  {
-    "objectID": "about.html#purpose",
-    "href": "about.html#purpose",
-    "title": "About this site",
-    "section": "",
-    "text": "This website provides management protocols for clinical practice at Ain Shams University Women’s Hospital. These protocols serve as evidence-based reference guides for healthcare professionals working within our institution."
-  },
-  {
-    "objectID": "about.html#development-methodology",
-    "href": "about.html#development-methodology",
-    "title": "About this site",
-    "section": "Development methodology",
-    "text": "Development methodology\nEach protocol was developed through a comprehensive review of available current international guidelines from NICE, RCOG, ACOG, SOGC, FIGO, and WHO. Evidence-based recommendations have been adapted to reflect our institution’s resources, and our patient population characteristics."
-  },
-  {
-    "objectID": "about.html#important-disclaimer",
-    "href": "about.html#important-disclaimer",
-    "title": "About this site",
-    "section": "Important disclaimer",
-    "text": "Important disclaimer\nThese protocols are intended to support clinical decision-making but are not exhaustive and should not replace individual clinical judgment. Healthcare professionals must consider each patient’s unique circumstances and consult relevant specialists when necessary.\n\nThis is a Quarto website. To learn more, visit https://quarto.org/docs/websites."
+    "text": "PPROM\nHypertension\nReduced fetal movement"
   },
   {
     "objectID": "protocol-pprom.html",
     "href": "protocol-pprom.html",
     "title": "Preterm prelabor rupture of membranes",
     "section": "",
-    "text": "History of watery vaginal discharge.\nSterile speculum examination demonstrating liquor.\nThe role of ultrasound assessment of amniotic fluid volume is unclear.\nDigital vaginal exam should not be done unless in labor.",
+    "text": "History of watery vaginal discharge.\nSterile speculum examination demonstrating liquor.\nThe role of ultrasound assessment of amniotic fluid volume is unclear.\nDigital vaginal exam should not be done unless in labor.\n\n\n\n\n\nMaternal:\n\nCBC, CRP\nUrine analysis and culture\n\nFetal:\n\nCTG (if &gt;28 weeks)\nUltrasound for growth and amniotic fluid volume",
     "crumbs": [
       "Preterm prelabor rupture of membranes"
     ]
@@ -119,7 +21,7 @@
     "href": "protocol-pprom.html#diagnosis",
     "title": "Preterm prelabor rupture of membranes",
     "section": "",
-    "text": "History of watery vaginal discharge.\nSterile speculum examination demonstrating liquor.\nThe role of ultrasound assessment of amniotic fluid volume is unclear.\nDigital vaginal exam should not be done unless in labor.",
+    "text": "History of watery vaginal discharge.\nSterile speculum examination demonstrating liquor.\nThe role of ultrasound assessment of amniotic fluid volume is unclear.\nDigital vaginal exam should not be done unless in labor.\n\n\n\n\n\nMaternal:\n\nCBC, CRP\nUrine analysis and culture\n\nFetal:\n\nCTG (if &gt;28 weeks)\nUltrasound for growth and amniotic fluid volume",
     "crumbs": [
       "Preterm prelabor rupture of membranes"
     ]
@@ -139,7 +41,7 @@
     "href": "protocol-pprom.html#management",
     "title": "Preterm prelabor rupture of membranes",
     "section": "Management",
-    "text": "Management\n\nAdmission. Outpatient management only by consultant decision (individualized).\nAntibiotics:\n\nAzithromycin 1 g PO single dose, plus\nPenicillins (for 7 days):\n\nAmpicillin-sulbactam 2 g IV q6h × 2 days, then\nAmoxicillin 250 mg PO q8h × 5 days, plus\n\n\nAntenatal corticosteroids (dexamethasone) if &lt;34/&lt;36 weeks after screening for GDM:\n\nDose:\n\n6 mg IM q12h × 4 doses, or\n12 mg IM q24h × 2 doses\n\nRepeat courses not routinely offeerred\n\nMagnesium sulfate for neuroprotection if &lt;30/&lt;34 weeks.\n\n\nBirth\n\nTiming:\n\n&lt;34 weeks: expectant management until 34 weeks, unless indicated earlier\n34-&lt;36 weeks: consider delivery after corticosteroids (individualized)\n36-37 weeks: deliver\n\nIndications for earlier delivery:\n\nChorioamnionitis\nFetal distress\nAssociated medical indications (e.g., severe preeclampsia)\n\nMode: VD unless CS is otherwise indicated.\nNeonatologists should be informed when delivery is anticipated.",
+    "text": "Management\n\nAdmission. Outpatient management only by consultant decision (individualized).\nAntibiotics:\n\nAzithromycin 1 g PO single dose, plus\nPenicillins (for 7 days):\n\nAmpicillin-sulbactam 2 g IV q6h × 2 days, then\nAmoxicillin 250 mg PO q8h × 5 days\n\n\nAntenatal corticosteroids (dexamethasone) if &lt;34/&lt;36 weeks after screening for GDM:\n\nDose:\n\n6 mg IM q12h × 4 doses, or\n12 mg IM q24h × 2 doses\n\nRepeat courses not routinely offeerred\n\nMagnesium sulfate for neuroprotection if &lt;30/&lt;34 weeks.\n\n\nBirth\n\nTiming:\n\n&lt;34 weeks: expectant management until 34 weeks, unless indicated earlier\n34-&lt;36 weeks: consider delivery after corticosteroids (individualized)\n36-37 weeks: deliver\n\nIndications for earlier delivery:\n\nChorioamnionitis\nFetal distress\nAssociated medical indications (e.g., severe preeclampsia)\n\nMode: VD unless CS is otherwise indicated.\nNeonatologists should be informed when delivery is anticipated.\n\n\n\nPostpartum/preconceptional advice\n\nRisk in subsequent pregnancies is increased.",
     "crumbs": [
       "Preterm prelabor rupture of membranes"
     ]
@@ -149,7 +51,7 @@
     "href": "protocol-pprom.html#special-considerations",
     "title": "Preterm prelabor rupture of membranes",
     "section": "Special considerations",
-    "text": "Special considerations\n\nPeriviable ROM\n\n&lt;20 weeks → counsel regarding poor prognosis; risk of pulmonary hypoplasia, skeletal deformities, and neonatal death, in addition to risk of maternal morbidity from chorioamnionitis and sepsis.\n20-&lt;24 weeks → expectant management or termination of pregnancy after counseling.\n24 weeks → expectant management.\n\n\n\nWomen with cerclage\n\n\n\n\n\nPreterm labor\n\nTocolysis is not recommended as it is associated with increased risk of chorioamnionitis.\n\n\n\nChorioamnionitis\n\nA combination of clinical assessment, maternal blood tests (CRP and WBC) and FHR should be used to diagnose chorioamnionitis in women with PPROM; these parameters should not be used in isolation.\nDiagnosis: Maternal fever &gt;38°C plus 2 of the following:\n\nMaternal tachycardia &gt;100 bpm\nFetal tachycardia &gt;160 bpm\nUterine tenderness\nFoul smelling vaginal discharge\nElevated WBC &gt;15,000/mm3 (less reliable if corticosteroids given)\n\nManagement:\n\nAntibuotics:\nExpedite delivery",
+    "text": "Special considerations\n\nPeriviable ROM\n\n&lt;20 weeks → counsel regarding poor prognosis; risk of pulmonary hypoplasia, skeletal deformities, and neonatal death, in addition to risk of maternal morbidity from chorioamnionitis and sepsis.\n20-&lt;24 weeks → expectant management or termination of pregnancy after counseling.\n24 weeks → expectant management.\n\n\n\nWomen with cerclage\n\n\n\n\n\nPreterm labor\n\nTocolysis is not recommended (associated with increased risk of chorioamnionitis).\n\n\n\nChorioamnionitis\n\nA combination of clinical assessment, maternal blood tests (CRP and WBC) and FHR should be used to diagnose chorioamnionitis in women with PPROM; these parameters should not be used in isolation.\nDiagnosis: Maternal fever &gt;38°C plus 2 of the following:\n\nMaternal tachycardia &gt;100 bpm\nFetal tachycardia &gt;160 bpm\nUterine tenderness\nFoul smelling vaginal discharge\nElevated WBC &gt;15,000/mm3 (less reliable if corticosteroids given)\n\nManagement:\n\nAntibiotics:\nExpedite delivery",
     "crumbs": [
       "Preterm prelabor rupture of membranes"
     ]
@@ -175,6 +77,34 @@
     ]
   },
   {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Useful links",
+    "section": "",
+    "text": "Perinatology.com: Centiles calc\nPerinatology.com: GA/EFW from biometry\nWHO: Fetal growth calculator\nPerinatology.com: UAD\nFetal Medicine Foundation: Fetal growth asst\nFetal Medicine Foundation: SGA mgt\nFetal Medicine Foundation: Fetal Doppler"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this site",
+    "section": "",
+    "text": "This website provides management protocols for clinical practice at Ain Shams University Women’s Hospital. These protocols serve as evidence-based reference guides for healthcare professionals working within our institution."
+  },
+  {
+    "objectID": "about.html#purpose",
+    "href": "about.html#purpose",
+    "title": "About this site",
+    "section": "",
+    "text": "This website provides management protocols for clinical practice at Ain Shams University Women’s Hospital. These protocols serve as evidence-based reference guides for healthcare professionals working within our institution."
+  },
+  {
+    "objectID": "about.html#development-methodology",
+    "href": "about.html#development-methodology",
+    "title": "About this site",
+    "section": "Development methodology",
+    "text": "Development methodology\nEach protocol was developed through a comprehensive review of available current international guidelines from NICE, RCOG, ACOG, SOGC, FIGO, and WHO. Evidence-based recommendations have been adapted to reflect our institution’s resources, and our patient population characteristics."
+  },
+  {
     "objectID": "about.html#disclaimer",
     "href": "about.html#disclaimer",
     "title": "About this site",
@@ -182,21 +112,78 @@
     "text": "Disclaimer\nThese protocols are intended to support clinical decision-making but are not exhaustive and should not replace individual clinical judgment. Healthcare professionals must consider each patient’s unique circumstances and consult relevant specialists when necessary.\n\nThis is a Quarto website. To learn more, visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "protocol-rfm.html",
-    "href": "protocol-rfm.html",
-    "title": "Reduced fetal movement",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ASU-GO",
     "section": "",
-    "text": "flowchart TD\n    Start[Woman presents with RFM] --&gt; History[History & Risk Assessment]\n    History --&gt; Gestation{Gestation?}\n\n    %% &lt; 24 Weeks\n    Gestation --&gt;|&lt; 24+0 weeks| Less24[Confirm Fetal Heart]\n    Less24 --&gt;|FH Heard| Reassure1[Reassure & Safety Net]\n    Less24 --&gt;|FH Not Heard| UrgentScan[Urgent Ultrasound]\n\n    %% 24 - 28 Weeks\n    Gestation --&gt;|24+0 - 28+0 weeks| Btn2428[Confirm Fetal Heart]\n    Btn2428 --&gt;|FH Not Heard| UrgentScan\n    Btn2428 --&gt;|FH Heard| Risks24{Risk Factors for FGR/SB?}\n    Risks24 --&gt;|No| Reassure1\n    Risks24 --&gt;|Yes| Scan[Ultrasound: Growth, Liquor, Doppler]\n\n    %% &gt; 28 Weeks\n    Gestation --&gt;|&gt; 28+0 weeks| More28[CTG Monitoring &gt;= 20 min]\n    More28 --&gt;|Abnormal/Pathological| SeniorRev[Senior Obstetric Review]\n    More28 --&gt;|Normal| Risks28{Risk factors / Clinical concerns?}\n    \n    Risks28 --&gt;|No| Measure[Abdominal Palpation/SFH]\n    Measure --&gt;|Normal Growth| Recurrent{Recurrent Episode?}\n    Measure --&gt;|Abnormal Growth| Scan\n    \n    Risks28 --&gt;|Yes| Scan\n\n    %% Scan Outcomes\n    Scan --&gt;|Normal| Recurrent\n    Scan --&gt;|Abnormal| SeniorRev\n\n    %% Recurrent Loop\n    Recurrent --&gt;|No| Discharge[Discharge with detailed advice]\n    Recurrent --&gt;|Yes| SeniorPlan[Senior Review & Individual Care Plan]\n\n    SeniorRev --&gt; Management[Management: Delivery or Admission]",
-    "crumbs": [
-      "Reduced fetal movement"
-    ]
+    "text": "Ain Shams University Gynecology & Obstetrics Protocols"
   },
   {
     "objectID": "protocol-htn.html",
     "href": "protocol-htn.html",
     "title": "Hypertensive disorders in pregnancy",
     "section": "",
-    "text": "Definitions & Classification\n\nChronic Hypertension: Hypertension present at the booking visit, or before 20 weeks, or likely to be chronic.\nGestational Hypertension: New hypertension presenting after 20 weeks without significant proteinuria.\nPreeclampsia: New hypertension after 20 weeks with significant proteinuria (PCR \\(\\ge\\) 30 mg/mmol) OR maternal organ dysfunction (renal, liver, neuro, haematological) OR uteroplacental dysfunction (fetal growth restriction).\n\n\n\nRisk Reduction (Aspirin)\nPrescribe Aspirin 75–150 mg daily from 12 weeks until birth if:\n\n1 High Risk Factor: Hypertensive disease during a previous pregnancy, Chronic kidney disease, Autoimmune disease (SLE/APS), Type 1 or 2 diabetes, Chronic hypertension.\n2 Moderate Risk Factors: Nulliparity, Age \\(\\ge\\) 40 years, Pregnancy interval &gt; 10 years, BMI \\(\\ge\\) 35 kg/m\\(^2\\) at first visit, Family history of preeclampsia, Multifetal pregnancy.\n\n\n\nChronic hypertension\n\nPre-conception / First Trimester:\n\nStop ACE inhibitors, ARBs, and thiazide diuretics (risk of congenital abnormalities).\nSubstitute with Labetalol (1st line), Nifedipine modified-release (2nd line), or Methyldopa (3rd line).\nTarget BP: 135/85 mmHg.\n\nManagement:\n\nMonitor BP weekly if poorly controlled, otherwise every 2–4 weeks.\nOffer PLGF-based testing to rule out superimposed preeclampsia if suspected.\nTiming of Birth: Offer planned birth at 37+0 weeks (or earlier if indicated). Continue treatment during labour.\n\n\n\n\nGestational hypertension\n\nAssessment:\n\nUrine dipstick at every visit. If \\(\\ge\\) 1+, send for PCR/ACR.\nEvaluate for symptoms of preeclampsia (headache, visual disturbances, epigastric pain, oedema).\n\nManagement:\n\nBP 140/90 – 159/109 mmHg:\n\nOffer anti-hypertensives: (1) Labetalol, (2) Nifedipine, (3) Methyldopa.\nTarget BP: 135/85 mmHg.\nMonitor BP 1-2 times/week; Urine weekly.\n\nBP \\(\\ge\\) 160/110 mmHg (Severe):\n\nAdmit. Start treatment immediately.\n\nTarget BP: 135/85 mmHg.\nMonitor BP 4 times/day minimum.\n\nTiming of Birth: Offer planned birth at 37+0 weeks.\n\n\n\nPreeclampsia\n\nAssessment:\n\nCBC, LFTs, Creatinine.\n\nManagement:\n\nMild/Moderate (140/90 - 159/109): Admit usually not required if stable. Treat to target 135/85 mmHg. Monitor BP 2x/week at least. Monitor fetal growth/dopplers (repeating every 2 weeks).\nSevere (\\(\\ge\\) 160/110): Admission required.\n\nAntihypertensives: Labetalol (oral/IV), Nifedipine, Hydralazine.\nMagnesium Sulfate: Give if severe features (severe headache, clonus, visual disturbance) or eclamptic seizure. Regimen: 4g IV loading dose over 5-15 min, then 1g/hr infusion for 24h.\n\nCorticosteroids: Offer if &lt; 34 weeks.\n\nTiming of Birth:\n\nNormally: Initiate birth at 37+0 weeks.\n&lt; 37 weeks: expectant management unless maternal/fetal compromise (uncontrolled BP, HELLP, eclampsia, placental abruption, severe FGR).\n\n\n\n\nPostpartum management\n\nMonitoring:\n\nMeasure BP daily for first 2 days.\nIf pre-eclampsia: At least 4 times/day while inpatient.\n\nMedication:\n\nMethyldopa: Stop within 2 days of birth (risk of depression).\nLabetalol / Nifedipine / Enalapril: Safe for breastfeeding. Amlodipine is also an option.\nAvoid diuretics if breastfeeding (may reduce milk supply).\n\nFollow-up:\n\nTransfer to community care if BP &lt; 150/100 mmHg.\nGP review at 2 weeks (medical review) and 6-8 weeks (postnatal check).\n\nFuture Health: Discuss long-term cardiovascular risks and lifestyle modifications.",
+    "text": "Chronic Hypertension: Hypertension present at the booking visit, or before 20 weeks, or likely to be chronic.\nGestational Hypertension: New hypertension presenting after 20 weeks without significant proteinuria.\nPreeclampsia: New hypertension after 20 weeks with significant proteinuria (PCR ≥30 mg/mmol) OR maternal organ dysfunction (renal, liver, neuro, haematological) OR uteroplacental dysfunction (fetal growth restriction).",
+    "crumbs": [
+      "Hypertensive disorders in pregnancy"
+    ]
+  },
+  {
+    "objectID": "protocol-htn.html#definitions-classification",
+    "href": "protocol-htn.html#definitions-classification",
+    "title": "Hypertensive disorders in pregnancy",
+    "section": "",
+    "text": "Chronic Hypertension: Hypertension present at the booking visit, or before 20 weeks, or likely to be chronic.\nGestational Hypertension: New hypertension presenting after 20 weeks without significant proteinuria.\nPreeclampsia: New hypertension after 20 weeks with significant proteinuria (PCR ≥30 mg/mmol) OR maternal organ dysfunction (renal, liver, neuro, haematological) OR uteroplacental dysfunction (fetal growth restriction).",
+    "crumbs": [
+      "Hypertensive disorders in pregnancy"
+    ]
+  },
+  {
+    "objectID": "protocol-htn.html#risk-reduction-aspirin",
+    "href": "protocol-htn.html#risk-reduction-aspirin",
+    "title": "Hypertensive disorders in pregnancy",
+    "section": "Risk Reduction (Aspirin)",
+    "text": "Risk Reduction (Aspirin)\nPrescribe Aspirin 75–150 mg daily from 12 weeks until birth if:\n\n\n\n1 High Risk Factor\n2 Moderate Risk Factors\n\n\n\n\nPrevious hypertensive disease in pregnancy\nNulliparity\n\n\nChronic kidney disease\nAge ≥40 years\n\n\nAutoimmune disease (SLE/APS)\nPregnancy interval &gt;10 years\n\n\nType 1 or 2 diabetes\nBMI ≥35 kg/m2 at first visit\n\n\nChronic hypertension\nFamily history of preeclampsia\n\n\n\nMultifetal pregnancy",
+    "crumbs": [
+      "Hypertensive disorders in pregnancy"
+    ]
+  },
+  {
+    "objectID": "protocol-htn.html#chronic-hypertension",
+    "href": "protocol-htn.html#chronic-hypertension",
+    "title": "Hypertensive disorders in pregnancy",
+    "section": "Chronic hypertension",
+    "text": "Chronic hypertension\n\nPre-conception / First Trimester:\n\nStop ACE inhibitors, ARBs, and thiazide diuretics (risk of congenital abnormalities).\nSubstitute with Labetalol (1st line), Nifedipine modified-release (2nd line), or Methyldopa (3rd line).\nTarget BP: 135/85 mmHg.\n\nManagement:\n\nMonitor BP weekly if poorly controlled, otherwise every 2–4 weeks.\nOffer PlGF-based testing to rule out superimposed preeclampsia if suspected.\nTiming of Birth: Offer planned birth at 37+0 weeks (or earlier if indicated). Continue treatment during labour.",
+    "crumbs": [
+      "Hypertensive disorders in pregnancy"
+    ]
+  },
+  {
+    "objectID": "protocol-htn.html#gestational-hypertension",
+    "href": "protocol-htn.html#gestational-hypertension",
+    "title": "Hypertensive disorders in pregnancy",
+    "section": "Gestational hypertension",
+    "text": "Gestational hypertension\n\nAssessment:\n\nUrine dipstick at every visit. If ≥ 1+ → send for PCR/ACR.\nEvaluate for symptoms of preeclampsia (headache, visual disturbances, epigastric pain, oedema).\n\nManagement:\n\nBP 140/90 – 159/109 mmHg:\n\nOffer anti-hypertensives: (1) Labetalol, (2) Nifedipine, (3) Methyldopa.\nTarget BP: 135/85 mmHg.\nMonitor BP 1-2 times/week; Urine weekly.\n\nBP ≥160/110 mmHg (Severe):\n\nAdmit. Start treatment immediately.\n\nTarget BP: 135/85 mmHg.\nMonitor BP 4 times/day minimum.\n\nTiming of Birth: Offer planned birth at 37+0 weeks.",
+    "crumbs": [
+      "Hypertensive disorders in pregnancy"
+    ]
+  },
+  {
+    "objectID": "protocol-htn.html#preeclampsia",
+    "href": "protocol-htn.html#preeclampsia",
+    "title": "Hypertensive disorders in pregnancy",
+    "section": "Preeclampsia",
+    "text": "Preeclampsia\n\nAssessment:\n\nCBC, LFTs, Creatinine.\n\nManagement:\n\nMild/Moderate (140/90 - 159/109): Admit usually not required if stable. Treat to target 135/85 mmHg. Monitor BP 2x/week at least. Monitor fetal growth/dopplers (repeating every 2 weeks).\nSevere (≥160/110): Admission required.\n\nAntihypertensives: Labetalol (oral/IV), Nifedipine, Hydralazine.\nMagnesium Sulfate: Give if severe features (severe headache, clonus, visual disturbance) or eclamptic seizure. Regimen: 4g IV loading dose over 5-15 min, then 1g/hr infusion for 24h.\n\nCorticosteroids: Offer if &lt;34 weeks.\n\nTiming of Birth:\n\nNormally: Initiate birth at 37+0 weeks.\n&lt; 37 weeks: expectant management unless maternal/fetal compromise (uncontrolled BP, HELLP, eclampsia, placental abruption, severe FGR).",
+    "crumbs": [
+      "Hypertensive disorders in pregnancy"
+    ]
+  },
+  {
+    "objectID": "protocol-htn.html#postpartum-management",
+    "href": "protocol-htn.html#postpartum-management",
+    "title": "Hypertensive disorders in pregnancy",
+    "section": "Postpartum management",
+    "text": "Postpartum management\n\nMonitoring:\n\nMeasure BP daily for first 2 days.\nIf pre-eclampsia: At least 4 times/day while inpatient.\n\nMedication:\n\nStop Methyldopa within 2 days of birth (risk of depression).\nLabetalol / Nifedipine / Enalapril are safe for breastfeeding. Amlodipine is also an option.\nAvoid diuretics if breastfeeding (may reduce milk supply).\nAvoid ARBs (unknown safety in breastfeeding).\n\nFollow-up:\n\nTransfer to community care if BP &lt; 150/100 mmHg.\nGP review at 2 weeks (medical review) and 6-8 weeks (postnatal check).\n\nFuture Health: Discuss long-term cardiovascular risks and lifestyle modifications.",
     "crumbs": [
       "Hypertensive disorders in pregnancy"
     ]

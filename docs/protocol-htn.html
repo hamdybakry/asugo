@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.25">
+<meta name="generator" content="quarto-1.8.26">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,7 +39,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-b77ad8b8fd8f04bd21044df5c5bf7d25.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -71,35 +71,6 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -111,8 +82,6 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">ASU-GO</span>
     </a>
@@ -123,10 +92,6 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
-<span class="menu-text">Home</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./protocols.html"> 
 <span class="menu-text">Protocols</span></a>
@@ -163,10 +128,6 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
-    <div class="pt-lg-2 mt-2 text-left sidebar-header sidebar-header-stacked">
-      <a href="./index.html" class="sidebar-logo-link">
-      </a>
-      </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
         <div id="quarto-search" class="" title="Search"></div>
@@ -189,7 +150,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./protocol-rfm.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">RFM</span></a>
+ <span class="menu-text">Reduced fetal movement</span></a>
   </div>
 </li>
     </ul>
@@ -240,24 +201,54 @@ window.Quarto = {
 </header>
 
 
-<section id="definitions-classification" class="level1">
-<h1>Definitions &amp; Classification</h1>
+<section id="definitions-classification" class="level2">
+<h2 class="anchored" data-anchor-id="definitions-classification">Definitions &amp; Classification</h2>
 <ul>
 <li><strong>Chronic Hypertension:</strong> Hypertension present at the booking visit, or before 20 weeks, or likely to be chronic.</li>
 <li><strong>Gestational Hypertension:</strong> New hypertension presenting after 20 weeks without significant proteinuria.</li>
-<li><strong>Preeclampsia:</strong> New hypertension after 20 weeks with significant proteinuria (PCR <span class="math inline">\(\ge\)</span> 30 mg/mmol) OR maternal organ dysfunction (renal, liver, neuro, haematological) OR uteroplacental dysfunction (fetal growth restriction).</li>
+<li><strong>Preeclampsia:</strong> New hypertension after 20 weeks with significant proteinuria (PCR ≥30 mg/mmol) OR maternal organ dysfunction (renal, liver, neuro, haematological) OR uteroplacental dysfunction (fetal growth restriction).</li>
 </ul>
 </section>
-<section id="risk-reduction-aspirin" class="level1">
-<h1>Risk Reduction (Aspirin)</h1>
+<section id="risk-reduction-aspirin" class="level2">
+<h2 class="anchored" data-anchor-id="risk-reduction-aspirin">Risk Reduction (Aspirin)</h2>
 <p>Prescribe <strong>Aspirin 75–150 mg daily</strong> from 12 weeks until birth if:</p>
-<ul>
-<li><strong>1 High Risk Factor:</strong> Hypertensive disease during a previous pregnancy, Chronic kidney disease, Autoimmune disease (SLE/APS), Type 1 or 2 diabetes, Chronic hypertension.</li>
-<li><strong>2 Moderate Risk Factors:</strong> Nulliparity, Age <span class="math inline">\(\ge\)</span> 40 years, Pregnancy interval &gt; 10 years, BMI <span class="math inline">\(\ge\)</span> 35 kg/m<span class="math inline">\(^2\)</span> at first visit, Family history of preeclampsia, Multifetal pregnancy.</li>
-</ul>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>1 High Risk Factor</th>
+<th>2 Moderate Risk Factors</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Previous hypertensive disease in pregnancy</td>
+<td>Nulliparity</td>
+</tr>
+<tr class="even">
+<td>Chronic kidney disease</td>
+<td>Age ≥40 years</td>
+</tr>
+<tr class="odd">
+<td>Autoimmune disease (SLE/APS)</td>
+<td>Pregnancy interval &gt;10 years</td>
+</tr>
+<tr class="even">
+<td>Type 1 or 2 diabetes</td>
+<td>BMI ≥35 kg/m<sup>2</sup> at first visit</td>
+</tr>
+<tr class="odd">
+<td>Chronic hypertension</td>
+<td>Family history of preeclampsia</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>Multifetal pregnancy</td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="chronic-hypertension" class="level1">
-<h1>Chronic hypertension</h1>
+<section id="chronic-hypertension" class="level2">
+<h2 class="anchored" data-anchor-id="chronic-hypertension">Chronic hypertension</h2>
 <ul>
 <li><strong>Pre-conception / First Trimester:</strong>
 <ul>
@@ -268,17 +259,17 @@ window.Quarto = {
 <li><strong>Management:</strong>
 <ul>
 <li>Monitor BP weekly if poorly controlled, otherwise every 2–4 weeks.</li>
-<li>Offer PLGF-based testing to rule out superimposed preeclampsia if suspected.</li>
+<li>Offer PlGF-based testing to rule out superimposed preeclampsia if suspected.</li>
 <li><strong>Timing of Birth:</strong> Offer planned birth at <strong>37+0 weeks</strong> (or earlier if indicated). Continue treatment during labour.</li>
 </ul></li>
 </ul>
 </section>
-<section id="gestational-hypertension" class="level1">
-<h1>Gestational hypertension</h1>
+<section id="gestational-hypertension" class="level2">
+<h2 class="anchored" data-anchor-id="gestational-hypertension">Gestational hypertension</h2>
 <ul>
 <li><strong>Assessment:</strong>
 <ul>
-<li>Urine dipstick at every visit. If <span class="math inline">\(\ge\)</span> 1+, send for PCR/ACR.</li>
+<li>Urine dipstick at every visit. If ≥ 1+ → send for PCR/ACR.</li>
 <li>Evaluate for symptoms of preeclampsia (headache, visual disturbances, epigastric pain, oedema).</li>
 </ul></li>
 <li><strong>Management:</strong>
@@ -289,7 +280,7 @@ window.Quarto = {
 <li>Target BP: <strong>135/85 mmHg</strong>.</li>
 <li>Monitor BP 1-2 times/week; Urine weekly.</li>
 </ul></li>
-<li><strong>BP <span class="math inline">\(\ge\)</span> 160/110 mmHg (Severe):</strong>
+<li><strong>BP ≥160/110 mmHg (Severe):</strong>
 <ul>
 <li>Admit. Start treatment immediately.</li>
 </ul></li>
@@ -299,8 +290,8 @@ window.Quarto = {
 <li><strong>Timing of Birth:</strong> Offer planned birth at <strong>37+0 weeks</strong>.</li>
 </ul>
 </section>
-<section id="preeclampsia" class="level1">
-<h1>Preeclampsia</h1>
+<section id="preeclampsia" class="level2">
+<h2 class="anchored" data-anchor-id="preeclampsia">Preeclampsia</h2>
 <ul>
 <li><strong>Assessment:</strong>
 <ul>
@@ -309,12 +300,12 @@ window.Quarto = {
 <li><strong>Management:</strong>
 <ul>
 <li><strong>Mild/Moderate (140/90 - 159/109):</strong> Admit usually not required if stable. Treat to target <strong>135/85 mmHg</strong>. Monitor BP 2x/week at least. Monitor fetal growth/dopplers (repeating every 2 weeks).</li>
-<li><strong>Severe (<span class="math inline">\(\ge\)</span> 160/110):</strong> Admission required.
+<li><strong>Severe (≥160/110):</strong> Admission required.
 <ul>
 <li><strong>Antihypertensives:</strong> Labetalol (oral/IV), Nifedipine, Hydralazine.</li>
 <li><strong>Magnesium Sulfate:</strong> Give if severe features (severe headache, clonus, visual disturbance) or eclamptic seizure. Regimen: 4g IV loading dose over 5-15 min, then 1g/hr infusion for 24h.</li>
 </ul></li>
-<li><strong>Corticosteroids:</strong> Offer if &lt; 34 weeks.</li>
+<li><strong>Corticosteroids:</strong> Offer if &lt;34 weeks.</li>
 </ul></li>
 <li><strong>Timing of Birth:</strong>
 <ul>
@@ -323,8 +314,8 @@ window.Quarto = {
 </ul></li>
 </ul>
 </section>
-<section id="postpartum-management" class="level1">
-<h1>Postpartum management</h1>
+<section id="postpartum-management" class="level2">
+<h2 class="anchored" data-anchor-id="postpartum-management">Postpartum management</h2>
 <ul>
 <li><strong>Monitoring:</strong>
 <ul>
@@ -333,9 +324,10 @@ window.Quarto = {
 </ul></li>
 <li><strong>Medication:</strong>
 <ul>
-<li><strong>Methyldopa:</strong> Stop within 2 days of birth (risk of depression).</li>
-<li><strong>Labetalol / Nifedipine / Enalapril:</strong> Safe for breastfeeding. Amlodipine is also an option.</li>
+<li>Stop Methyldopa within 2 days of birth (risk of depression).</li>
+<li><strong>Labetalol / Nifedipine / Enalapril</strong> are safe for breastfeeding. Amlodipine is also an option.</li>
 <li>Avoid diuretics if breastfeeding (may reduce milk supply).</li>
+<li>Avoid ARBs (unknown safety in breastfeeding).</li>
 </ul></li>
 <li><strong>Follow-up:</strong>
 <ul>
@@ -753,7 +745,7 @@ window.Quarto = {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>Made using Quarto</p>
+<p>This website is made using <a href="https://quarto.org/">Quarto</a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
@@ -767,7 +759,7 @@ window.Quarto = {
     </a>
   </li>  
     <li class="nav-item">
- Curated by HB; © Ain Shams University 2025
+ © 2026 Ain Shams University, curated by HB
   </li>  
 </ul>
     </div>

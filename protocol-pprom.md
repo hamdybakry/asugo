@@ -12,7 +12,7 @@ date: 2025-12-15
 - Digital vaginal exam should not be done unless in labor.
 - 
 
-## Investigations
+### Investigations
 
 - Maternal:
     - CBC, CRP
@@ -28,7 +28,7 @@ date: 2025-12-15
     - Azithromycin 1 g PO single dose, plus
     - Penicillins (for 7 days):
         - Ampicillin-sulbactam 2 g IV q6h × 2 days, then
-        - Amoxicillin 250 mg PO q8h × 5 days, plus
+        - Amoxicillin 250 mg PO q8h × 5 days
 - Antenatal corticosteroids (dexamethasone) if <34/<36 weeks after screening for GDM:
     - Dose:
         - 6 mg IM q12h × 4 doses, or
@@ -49,6 +49,10 @@ date: 2025-12-15
 - Mode: VD unless CS is otherwise indicated.
 - Neonatologists should be informed when delivery is anticipated.
 
+### Postpartum/preconceptional advice
+
+- Risk in subsequent pregnancies is increased.
+
 ## Special considerations
 
 ### Periviable ROM
@@ -63,7 +67,7 @@ date: 2025-12-15
 
 ### Preterm labor
 
-- Tocolysis is not recommended as it is associated with increased risk of chorioamnionitis.
+- Tocolysis is not recommended (associated with increased risk of chorioamnionitis).
 
 ### Chorioamnionitis
 
@@ -75,15 +79,11 @@ date: 2025-12-15
     - Foul smelling vaginal discharge
     - Elevated WBC >15,000/mm^3^ (less reliable if corticosteroids given)
 - Management:
-    - Antibuotics:
+    - Antibiotics:
     - Expedite delivery
-
-## Postpartum/preconceptional advice
-
-- Risk in subsequent pregnancies is increased.
 
 ## References
 
 - RCOG 2021
-- NICE 
-- ACOG 
+- NICE
+- ACOG

@@ -18,18 +18,18 @@ website:
         href: about.md
 
   sidebar:
-    - title: "xProtocols"
+    - title: "Protocols"
       style: docked
       search: true
       contents: protocol-*.md
 
   page-footer: 
     left: 
-      Made using Quarto
+      This website is made using [Quarto](https://quarto.org/)
     right: 
       - icon: github
         href: https://github.com/hamdybakry/asugo
-      - Curated by HB; © Ain Shams University 2025
+      - © 2026 Ain Shams University, curated by HB
 
 format:
   html:
