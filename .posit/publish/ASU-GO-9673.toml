@@ -1,0 +1,12 @@
+"$schema" = "https://cdn.posit.co/publisher/schemas/posit-publishing-schema-v3.json"
+type = "html"
+entrypoint = "docs/index.html"
+title = "ASU-GO"
+source = "index.html"
+files = [
+    "/docs",
+    "/.posit/publish/ASU-GO-9673.toml",
+    "/.posit/publish/deployments/deployment-01LH.toml",
+]
+validate = true
+product_type = "connect_cloud"
